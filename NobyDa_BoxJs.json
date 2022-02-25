@@ -1,16 +1,16 @@
 {
-  "id": "NobyDa.app.sub",
-  "name": "NobyDa 脚本订阅",
+  "id": "sunnicholas.app.sub",
+  "name": "sunnicholas 脚本订阅",
   "description": "该订阅兼容BoxJs以及QX Gallery",
-  "author": "@NobyDa",
+  "author": "@sunnicholas",
   "icon": "https://avatars2.githubusercontent.com/u/53217160",
-  "repo": "https://github.com/NobyDa/Script/tree/master",
+  "repo": "https://github.com/sunnicholas/Script/tree/master",
   "apps": [{
     "id": "多合一签到",
     "name": "京东",
     "keys": ["CookieJD", "CookieJD2", "CookiesJD"],
     "descs_html": [
-      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js\">脚本注释</a></h4>",
+      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/sunnicholas/Script/master/JD-DailyBonus/JD_DailyBonus.js\">脚本注释</a></h4>",
       "<br />",
       "<h3 align=\"center\">签到相关教程</h3>",
       "<p align=\"center\"><iframe src=\"https://www.youtube.com/embed/6vMz1LKF1-8\" width=\"100%\" height=\"100%\"></iframe></p>"
@@ -204,20 +204,20 @@
     }],
     "scripts": [{
       "name": "京东签到",
-      "script": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js"
+      "script": "https://raw.githubusercontent.com/sunnicholas/Script/master/JD-DailyBonus/JD_DailyBonus.js"
     }, {
       "name": "初始化设置",
-      "script": "https://gist.githubusercontent.com/NobyDa/91cbe57dd50b3588a975af8922507a72/raw/JD_initial.js"
+      "script": "https://gist.githubusercontent.com/sunnicholas/91cbe57dd50b3588a975af8922507a72/raw/JD_initial.js"
     }],
-    "author": "@NobyDa",
-    "repo": "https://github.com/NobyDa/Script/tree/master/JD-DailyBonus",
-    "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/jd.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png"]
+    "author": "@sunnicholas",
+    "repo": "https://github.com/sunnicholas/Script/tree/master/JD-DailyBonus",
+    "icons": ["https://raw.githubusercontent.com/sunnicholas/mini/master/Alpha/jd.png", "https://raw.githubusercontent.com/sunnicholas/mini/master/Color/jd.png"]
   }, {
     "id": "iQIYI",
     "name": "爱奇艺",
     "keys": ["CookieQY"],
     "descs_html": [
-      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js\">脚本注释</a></h4>"
+      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/sunnicholas/Script/master/iQIYI-DailyBonus/iQIYI.js\">脚本注释</a></h4>"
     ],
     "settings": [{
       "id": "iQIYI_LogDetails",
@@ -233,27 +233,27 @@
       "placeholder": "默认无超时 (点击以展开说明)",
       "desc": "按需填写, 用于由网络不稳定引起的脚本中断, 正常用户建议留空. 如QX日志出现\"JS Context timeout\"后脚本中断时, 建议填写6000"
     }],
-    "script": "https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js",
-    "author": "@NobyDa",
-    "repo": "https://github.com/NobyDa/Script/blob/master/iQIYI-DailyBonus/iQIYI.js",
-    "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/iQIYI.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/iQIYI.png"]
+    "script": "https://raw.githubusercontent.com/sunnicholas/Script/master/iQIYI-DailyBonus/iQIYI.js",
+    "author": "@sunnicholas",
+    "repo": "https://github.com/sunnicholas/Script/blob/master/iQIYI-DailyBonus/iQIYI.js",
+    "icons": ["https://raw.githubusercontent.com/sunnicholas/mini/master/Alpha/iQIYI.png", "https://raw.githubusercontent.com/sunnicholas/mini/master/Color/iQIYI.png"]
   }, {
     "id": "BiliManga",
     "name": "哔哩漫画",
     "keys": ["CookieBM"],
     "descs_html": [
-      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js\">脚本注释</a></h4>"
+      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/sunnicholas/Script/master/Bilibili-DailyBonus/Manga.js\">脚本注释</a></h4>"
     ],
-    "script": "https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js",
-    "author": "@NobyDa",
-    "repo": "https://github.com/NobyDa/Script/blob/master/Bilibili-DailyBonus/Manga.js",
-    "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/manga.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/manga.png"]
+    "script": "https://raw.githubusercontent.com/sunnicholas/Script/master/Bilibili-DailyBonus/Manga.js",
+    "author": "@sunnicholas",
+    "repo": "https://github.com/sunnicholas/Script/blob/master/Bilibili-DailyBonus/Manga.js",
+    "icons": ["https://raw.githubusercontent.com/sunnicholas/mini/master/Alpha/manga.png", "https://raw.githubusercontent.com/sunnicholas/mini/master/Color/manga.png"]
   }, {
     "id": "BaiduTB",
     "name": "百度贴吧",
     "keys": ["CookieTB"],
     "descs_html": [
-      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js\">脚本注释</a></h4>"
+      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/sunnicholas/Script/master/BDTieBa-DailyBonus/TieBa.js\">脚本注释</a></h4>"
     ],
     "settings": [{
       "id": "BDTB_DailyBonus_Mode",
@@ -279,27 +279,27 @@
       "placeholder": "默认20 (点击以展开说明)",
       "desc": "想签到几个汇总到一个通知里, 这里就填几个(比如我有13个要签到的, 这里填了5, 就会分三次推送通知)"
     }],
-    "script": "https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js",
-    "author": "@sazs34, @NobyDa",
+    "script": "https://raw.githubusercontent.com/sunnicholas/Script/master/BDTieBa-DailyBonus/TieBa.js",
+    "author": "@sazs34, @sunnicholas",
     "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
-    "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/tieba.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png"]
+    "icons": ["https://raw.githubusercontent.com/sunnicholas/mini/master/Alpha/tieba.png", "https://raw.githubusercontent.com/sunnicholas/mini/master/Color/tieba.png"]
   }, {
     "id": "52poje",
     "name": "吾爱破解",
     "keys": ["CookieWA"],
     "descs_html": [
-      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js\">脚本注释</a></h4>"
+      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/sunnicholas/Script/master/52pojie-DailyBonus/52pojie.js\">脚本注释</a></h4>"
     ],
-    "script": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js",
-    "author": "@NobyDa",
-    "repo": "https://github.com/NobyDa/Script/blob/master/52pojie-DailyBonus/52pojie.js",
-    "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/52pj.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/52pj.png"]
+    "script": "https://raw.githubusercontent.com/sunnicholas/Script/master/52pojie-DailyBonus/52pojie.js",
+    "author": "@sunnicholas",
+    "repo": "https://github.com/sunnicholas/Script/blob/master/52pojie-DailyBonus/52pojie.js",
+    "icons": ["https://raw.githubusercontent.com/sunnicholas/mini/master/Alpha/52pj.png", "https://raw.githubusercontent.com/sunnicholas/mini/master/Color/52pj.png"]
   }, {
     "id": "KuaiKan",
     "name": "快看漫画",
     "keys": ["@KKMH.COOKIE", "@KKMH.TIME", "@KKMH.UID", "@KKMH.DATE"],
     "descs_html": [
-      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js\">脚本注释</a></h4>"
+      "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/sunnicholas/Script/master/KuaiKan-DailyBonus/KKMH.js\">脚本注释</a></h4>"
     ],
     "settings": [{
       "id": "@KKMH.LOG",
@@ -308,15 +308,15 @@
       "type": "boolean",
       "desc": "打印原始签到结果, 用于调试脚本, 一般用户建议关闭."
     }],
-    "script": "https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js",
-    "author": "@NobyDa",
-    "repo": "https://github.com/NobyDa/Script/blob/master/KuaiKan-DailyBonus/KKMH.js",
-    "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/KuaiKan.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/KuaiKan.png"]
+    "script": "https://raw.githubusercontent.com/sunnicholas/Script/master/KuaiKan-DailyBonus/KKMH.js",
+    "author": "@sunnicholas",
+    "repo": "https://github.com/sunnicholas/Script/blob/master/KuaiKan-DailyBonus/KKMH.js",
+    "icons": ["https://raw.githubusercontent.com/sunnicholas/mini/master/Alpha/KuaiKan.png", "https://raw.githubusercontent.com/sunnicholas/mini/master/Color/KuaiKan.png"]
   }, {
     "id": "BiliRegion",
     "name": "哔哩番剧自动地区",
     "descs_html": [
-      "<h4 align=\"center\">脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js\">脚本注释</a></h4>"
+      "<h4 align=\"center\">脚本配置请查看<a href=\"https://raw.githubusercontent.com/sunnicholas/Script/master/Surge/JS/Bili_Auto_Regions.js\">脚本注释</a></h4>"
     ],
     "keys": ["BiliArea_Policy", "BiliArea_CN", "BiliArea_HK", "BiliArea_TW"],
     "settings": [{
@@ -354,27 +354,27 @@
       "placeholder": "(点击以展开说明)",
       "desc": "哔哩哔哩分流策略组里的台湾子策略名"
     }],
-    "author": "@NobyDa",
-    "repo": "https://github.com/NobyDa/Script/blob/master/Surge/JS/Bili_Auto_Regions.js",
-    "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/bilibili.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/bilibili.png"]
+    "author": "@sunnicholas",
+    "repo": "https://github.com/sunnicholas/Script/blob/master/Surge/JS/Bili_Auto_Regions.js",
+    "icons": ["https://raw.githubusercontent.com/sunnicholas/mini/master/Alpha/bilibili.png", "https://raw.githubusercontent.com/sunnicholas/mini/master/Color/bilibili.png"]
   }],
   "task": [{
-    "config": "0 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png",
-    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+    "config": "0 8 * * * https://raw.githubusercontent.com/sunnicholas/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/sunnicholas/mini/master/Color/jd.png",
+    "addons": "https://raw.githubusercontent.com/sunnicholas/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=sunnicholas Cookie获取"
   }, {
-    "config": "5 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/iQIYI.png",
-    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+    "config": "5 8 * * * https://raw.githubusercontent.com/sunnicholas/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺签到, img-url=https://raw.githubusercontent.com/sunnicholas/mini/master/Color/iQIYI.png",
+    "addons": "https://raw.githubusercontent.com/sunnicholas/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=sunnicholas Cookie获取"
   }, {
-    "config": "10 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js, tag=哔哩漫画签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/manga.png",
-    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+    "config": "10 8 * * * https://raw.githubusercontent.com/sunnicholas/Script/master/Bilibili-DailyBonus/Manga.js, tag=哔哩漫画签到, img-url=https://raw.githubusercontent.com/sunnicholas/mini/master/Color/manga.png",
+    "addons": "https://raw.githubusercontent.com/sunnicholas/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=sunnicholas Cookie获取"
   }, {
-    "config": "15 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png",
-    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+    "config": "15 8 * * * https://raw.githubusercontent.com/sunnicholas/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/sunnicholas/mini/master/Color/tieba.png",
+    "addons": "https://raw.githubusercontent.com/sunnicholas/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=sunnicholas Cookie获取"
   }, {
-    "config": "20 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/52pj.png",
-    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+    "config": "20 8 * * * https://raw.githubusercontent.com/sunnicholas/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解签到, img-url=https://raw.githubusercontent.com/sunnicholas/mini/master/Color/52pj.png",
+    "addons": "https://raw.githubusercontent.com/sunnicholas/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=sunnicholas Cookie获取"
   }, {
-    "config": "25 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js, tag=快看漫画签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/KuaiKan.png",
-    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+    "config": "25 8 * * * https://raw.githubusercontent.com/sunnicholas/Script/master/KuaiKan-DailyBonus/KKMH.js, tag=快看漫画签到, img-url=https://raw.githubusercontent.com/sunnicholas/mini/master/Color/KuaiKan.png",
+    "addons": "https://raw.githubusercontent.com/sunnicholas/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=sunnicholas Cookie获取"
   }]
 }
